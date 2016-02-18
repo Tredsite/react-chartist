@@ -29,7 +29,7 @@
     "chartist": "Tredsite/chartist-js"
   },
   "dependencies": {
-    "chartist": "^0.9.4",
+    "chartist": "Tredsite/chartist-js",
     "react": "^0.13.2"
   },
   "scripts": {
