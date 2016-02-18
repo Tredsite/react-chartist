@@ -25,8 +25,7 @@
   },
   "homepage": "https://github.com/fraserxu/react-chartist",
   "peerDependencies": {
-    "react": ">=0.13.0",
-    "chartist": "Tredsite/chartist-js"
+    "react": ">=0.13.0"
   },
   "dependencies": {
     "chartist": "Tredsite/chartist-js",
